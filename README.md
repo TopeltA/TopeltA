@@ -11,14 +11,7 @@ I'm a versatile creative with a strong background in design, photography, and pr
 
 [![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/augarturphoto/) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/Aug_Art/) [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:augartur@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/artur-aug-034436198/)   [![Behance](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg)](https://www.behance.net/topelt_a)
 
-> [!TIP] 
-> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-> 
-> I’m currently building my skills in UX/UI design and front-end development, with a strong focus on user-centered design principles. I'm passionate about creating intuitive and visually engaging digital experiences.
 
->I'm gaining hands-on experience with modern tools and frameworks, and I enjoy designing smooth, functional user interfaces. I work with Figma for design workflows and am learning to build responsive interfaces using Material UI.
-
->🙋‍♂️ I'm open to conversations about: UX/UI Design, User Research, Prototyping, Front-End Development, HTML/CSS, Material UI, and Open Source.
 
 ## My Projects
 
@@ -45,6 +38,15 @@ An engaging quiz application that tests users' knowledge across various topics. 
 A comprehensive platform designed for students to access learning materials, submit assignments, and track their academic progress. This project focuses on creating an intuitive, accessible interface for educational resources.
 
 **Tech Stack:** React, Material UI, Redux Toolkit, Firebase
+
+> [!TIP] 
+> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+> 
+> I’m currently building my skills in UX/UI design and front-end development, with a strong focus on user-centered design principles. I'm passionate about creating intuitive and visually engaging digital experiences.
+
+>I'm gaining hands-on experience with modern tools and frameworks, and I enjoy designing smooth, functional user interfaces. I work with Figma for design workflows and am learning to build responsive interfaces using Material UI.
+
+>🙋‍♂️ I'm open to conversations about: UX/UI Design, User Research, Prototyping, Front-End Development, HTML/CSS, Material UI, and Open Source.
 
 
 > [!IMPORTANT]
