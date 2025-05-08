@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Artur
 
-[!NOTE]
+
 Looking to connect with others on a similar journey! If you're into UX/UI design, front-end development, or creative digital projects, let’s grow and build something inspiring together.
 
 I'm a versatile creative with a strong background in design, photography, and project execution. Currently, I'm diving deep into UX/UI design and front-end technologies like HTML and CSS to expand my digital skillset.
