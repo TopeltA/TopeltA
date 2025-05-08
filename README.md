@@ -1,4 +1,4 @@
-# Hi! 👋 I'm [Your Name]
+# Hi! 👋 I'm Artur
 
 > [!NOTE]  
 > Looking for collaborators on GitHub! If you're excited about working on innovative solutions in UX/UI design and front-end development, let's connect and build something great together.
