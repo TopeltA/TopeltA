@@ -14,9 +14,11 @@ I'm a versatile creative with a strong background in design, photography, and pr
 > [!TIP] 
 > ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 > 
-> Experienced in creating beautiful user experiences with a focus on user-centered design principles. Skilled in building dynamic and interactive user interfaces with modern frameworks. Proficient with **Figma** for design workflows and **Material UI** for crafting modern, responsive designs.
-> 
-> 🙋‍♂️ Ask me about: UX/UI Design, User Research, Prototyping, Front-End Development, MUI, Open Source
+> I’m currently building my skills in UX/UI design and front-end development, with a strong focus on user-centered design principles. I'm passionate about creating intuitive and visually engaging digital experiences.
+
+>I'm gaining hands-on experience with modern tools and frameworks, and I enjoy designing smooth, functional user interfaces. I work with Figma for design workflows and am learning to build responsive interfaces using Material UI.
+
+>🙋‍♂️ I'm open to conversations about: UX/UI Design, User Research, Prototyping, Front-End Development, HTML/CSS, Material UI, and Open Source.
 
 ## My Projects
 
