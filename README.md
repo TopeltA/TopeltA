@@ -1,11 +1,11 @@
 # Hi! 👋 I'm Artur
 
-> [!NOTE]  
-> Looking for collaborators on GitHub! If you're excited about working on innovative solutions in UX/UI design and front-end development, let's connect and build something great together.
-> 
-> I'm a UX/UI designer. I help businesses grow their online presence and create impactful solutions that inspire and drive results.
-> 
-> ⚒️ Currently working on Loc Developers Community project
+[!NOTE]
+Looking to connect with others on a similar journey! If you're into UX/UI design, front-end development, or creative digital projects, let’s grow and build something inspiring together.
+
+I'm a versatile creative with a strong background in design, photography, and project execution. Currently, I'm diving deep into UX/UI design and front-end technologies like HTML and CSS to expand my digital skillset.
+
+⚒️ Currently learning and experimenting with user interface design and web development fundamentals
 
 ## 😎 Connect with me
 
