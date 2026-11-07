@@ -1,58 +1,70 @@
-# Hi! 👋 I'm Artur
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,37&height=220&section=header&text=Artur%20Aug&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=UX%2FUI%20Designer%20%7C%20Creative%20Front-End%20Developer&descSize=19&descAlignY=68" width="100%" alt="Header Banner" />
 
-Looking to connect with others on a similar journey! If you're into UX/UI design, front-end development, or creative digital projects, let’s grow and build something inspiring together.
+  <p align="center">
+    <strong>Bridging human-centered UX/UI design with modern, performant web interfaces.</strong>
+  </p>
 
-I'm a versatile creative with a strong background in design, photography, and project execution. Currently, I'm diving deep into UX/UI design and front-end technologies like HTML and CSS to expand my digital skillset.
+  <p align="center">
+    <a href="https://t.me/Aug_Art"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://www.linkedin.com/in/artur-aug-034436198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.behance.net/topelt_a"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+    <a href="mailto:augartur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.instagram.com/augarturphoto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 
-⚒️ Currently learning and experimenting with user interface design and web development fundamentals
+</div>
 
-## 😎 Connect with me
+---
 
-[![Instagram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/augarturphoto/) [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/Aug_Art/) [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:augartur@gmail.com) [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/artur-aug-034436198/)   [![Behance](https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg)](https://www.behance.net/topelt_a)
+### 🚀 About Me
 
+- 🎨 **Creative Background**: Strong foundation in visual design, art direction, and photography.
+- 💻 **Front-End Focus**: Crafting responsive, accessible, and fast web applications using Next.js, React, and TypeScript.
+- 💡 **Philosophy**: Great software must not only work flawlessly under the hood, but also feel intuitive and delightful to use.
+- 📍 **Location**: Estonia 🇪🇪
+- 🤝 **Open for**: Collaborations, freelance design/front-end projects, and full-time opportunities.
 
+---
 
-## My Projects
+### 🛠️ Tech Stack & Capabilities
 
-![](https://i.imgur.com/waxVImv.png)
+<div align="center">
 
-### 1. Portfolio Landing Page
+| Area | Technologies & Tools |
+| :--- | :--- |
+| **UX / UI & Product Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design_Systems-4A154B?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-FF6F00?style=flat-square) |
+| **Front-End Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Styling & UI Frameworks** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Ecosystem & Tools** | ![Sanity CMS](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
-A responsive, modern portfolio website built with **Material UI**. This project showcases my design skills through a clean, intuitive interface that adapts seamlessly to all device sizes.
+</div>
 
-**Tech Stack:** HTML/CSS/JS
+---
 
-![](https://i.imgur.com/waxVImv.png)
+### 🌟 Featured Projects
 
-### 2. Interactive Quiz Game
+#### 🚗 [Kursify — Driving School Marketplace & 3D Simulator](https://github.com/TopeltA/kursify-alpha-Aug)
+> Comprehensive digital platform for driving schools featuring course discovery, instructor booking, and an interactive 3D driving simulator.
+- **Stack**: Next.js (App Router), TypeScript, Tailwind CSS, Sanity CMS, WebGL / Three.js.
+- **Highlights**: High-performance UI, interactive 3D module, responsive mobile-first design.
 
-An engaging quiz application that tests users' knowledge across various topics. This mini-game features a sleek UI, timer functionality, and gamification elements through multiple question rounds.
+#### 🎨 [UI/UX & Creative Cases on Behance](https://www.behance.net/topelt_a)
+> Selected case studies covering web interfaces, design systems, and visual identity projects.
+- **Includes**: User journey mapping, typography & color systems, wireframing, high-fidelity prototypes.
 
-**Tech Stack:** React, JavaScript, Material UI, Context API
+---
 
-![](https://i.imgur.com/waxVImv.png)
+### 📊 GitHub Activity
 
-### 3. Educational Centre Community
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TopeltA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Artur's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopeltA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+</div>
 
-A comprehensive platform designed for students to access learning materials, submit assignments, and track their academic progress. This project focuses on creating an intuitive, accessible interface for educational resources.
+---
 
-**Tech Stack:** React, Material UI, Redux Toolkit, Firebase
-
-> [!TIP] 
-> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-> 
-> I’m currently building my skills in UX/UI design and front-end development, with a strong focus on user-centered design principles. I'm passionate about creating intuitive and visually engaging digital experiences.
-
->I'm gaining hands-on experience with modern tools and frameworks, and I enjoy designing smooth, functional user interfaces. I work with Figma for design workflows and am learning to build responsive interfaces using Material UI.
-
->🙋‍♂️ I'm open to conversations about: UX/UI Design, User Research, Prototyping, Front-End Development, HTML/CSS, Material UI, and Open Source.
-
-
-> [!IMPORTANT]
-> 
-> ### My Design Cases
-> 
-> **[UX/UI Design Library](https://github.com/your-username/)**: Comprehensive library for modern UX/UI design principles and practices.
-> 
-> **[UX/UI Best Practices](https://github.com/your-username/)**: Guidelines for creating efficient and maintainable user interfaces.
+<div align="center">
+  <sub>Designed & Coded with care by Artur Aug. Let's build something great together!</sub>
+</div>
